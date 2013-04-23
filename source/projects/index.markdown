@@ -11,6 +11,8 @@ This page is intended to serve as an index of the projects which I've released i
 ### Recent Projects ###
 **[Pocket Dogfights](http://www.pocketdogfights.com)** - a fast-paced game of arcade aerial combat. Currently available for the **iOS** and **Android** platforms, with desktop PC &amp; Mac builds forthcoming.
 
+**[Space Arena]({{ root_url }}/games/space-arena/index.html)** - a small arena shooter concept I put together as part of [Ludum Dare 26 warmup weekend](http://www.ludumdare.com/compo/2013/04/17/warmup-weekend-ludum-dare-26/).
+
 <br />
 
 <br />
