@@ -10,10 +10,10 @@ Just a quick one, but this post is mainly to cover that [Pocket Dogfights](http:
 
 The main goal for this release was to just tidy up some of the little things which people raised having played the initial release, which really goes to show why it's great to get things out there sooner rather than later.
 
-There's a number of small fixes, tweaks, and improvements - and it'll be glad to have them out there.
+There's a number of small fixes, tweaks, and improvements - and it'll be glad to have them out there :)
 
 #### Improvements ####
-*   Instead of tapping the screen to fire a single shot, you can now *hold down* a finger for a short period to time to engage auto fire.
+*   Reworked the controls - as you drag/swipe, you'll automatically fire your standard rounds. When you've collected the weapon Power Up, you fire that by tapping. This allows you to decide when you wish to use the ammo.
 *   Instead of solely communicating the amount of damage by the smoke trail, each plane (including the player's) will slowly change colour to a shade of red. The deeper the shade, the more severe the damage.
 *   Instead of disappearing, a collected Power Up will now grow in size before fading out - helping to communicate which Power Up the player has collected.
 
