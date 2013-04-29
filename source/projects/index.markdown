@@ -13,6 +13,9 @@ This page is intended to serve as an index of the projects which I've released i
 
 **[Space Arena]({{ root_url }}/games/space-arena/index.html)** - a small arena shooter concept I put together as part of [Ludum Dare 26 warmup weekend](http://www.ludumdare.com/compo/2013/04/17/warmup-weekend-ludum-dare-26/).
 
+**[Onslaught In Space](http://www.ludumdare.com/compo/ludum-dare-26/?action=preview&uid=15363)** - a small shooter I created for Ludum Dare 26 (where the theme was minimalism). You can read more about the development of it [here]({{ root_url }}/blog/2013/04/29/a-game-for-ludum-dare-26/).
+
+
 <br />
 
 <br />
