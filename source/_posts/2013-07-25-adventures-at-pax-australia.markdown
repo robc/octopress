@@ -3,7 +3,7 @@ layout: post
 title: "Adventures at PAX Australia"
 date: 2013-07-25 15:23
 comments: true
-categories: 
+categories: [Waffle, Indie Dev Life]
 ---
 I was wondering a bit on how to cover the weekend. I absolutely enjoyed it on a number of levels, and to be incredibly honest - when it's going to come to something like PAX, it really felt like a celebration of gaming in all its forms, and thus, it's best to just make it happen in your own way.
 
