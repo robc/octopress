@@ -14,8 +14,9 @@ The other item is to provide an overall *softography* of all the projects I've c
 
 ### Current Projects ###
 
-*  **[Pocket Dogfights](http://www.pocketdogfights.com)** - a fast-paced game of arcade aerial combat. Currently out on iOS, Android &amp; Macintosh (via Mac App Store), with other platforms possibily in the pipeline.
+*  **[Pivotus](http://www.pivotusgame.com)** - a minimalistic, rotational arcade-action game based upon (and heavily extended from) *Onslaught in Space*. Still early in development, and the target platforms are still to be confirmed.
 
+*  **[Pocket Dogfights](http://www.pocketdogfights.com)** - a fast-paced game of arcade aerial combat. Currently out on iOS, Android &amp; Macintosh (via Mac App Store), with other platforms possibily in the pipeline.
 
 <br />
 
