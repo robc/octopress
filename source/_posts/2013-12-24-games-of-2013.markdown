@@ -1,0 +1,50 @@
+---
+layout: post
+title: "Games of 2013"
+date: 2013-12-24 21:49
+comments: true
+categories: [Waffle, Retrogaming, Gaming]
+---
+When it comes to 2013, there's been a lot that it has taught me when it comes to what I want out of video gaming, in terms of both the types of games I want to play, along with the types (and more importantly values) of the games I want to make.
+
+I've not sorted this list in any particular order (it's just as it came to mind to be honest), I've also mentioned the platform(s) I played it on in particular. Whilst those may not be the ones individual titles were originally released on, there are cases where jumping platforms of course improves things quite a bit in terms of playability or convenience.
+
+**Stealth Inc: A Clone in the Dark (PS Vita):**
+Whilst I'd grabbed this on it's Steam release for the Mac, it wasn't until it was brought over to the Vita that I really settled down with this one. There's something about the platforming action which is *optimised* for the handheld, in terms of the short levels (making it easier to put it down when necessary), or the general feeling of the Vita in terms of controls (that directional pad is rather lovely).
+
+**Tomb Raider (Xbox 360):**
+Surprisingly, the only 2013 AAA release here. I wonder if that's just the result of the final year of the 360/PS3 generation winding down or if it's something else. Regardless, I really dug this. Whilst it was more focused on combat than exploration (something which I hope gets looked at in a follow-up), there was some great environment design along with some solid character development moments.
+
+**Warhammer 40000: Space Marine:**
+Yes, this probably has the most generic sounding name out there, but the fact of the matter is - there are times when I really do prefer a game to just be upfront about what it expects of you, and then give you that for quite a few hours.
+
+Which is exactly what Space Marine did for me. Sure, I was a tad late to the party on playing it (which is a bit of a theme, especially when one's a struggling indie), but I just loved the overall experience it provided. Plus, there was some surprisingly great characterisation (which is something I never expected in a genre game like this), and truth be told, I'm actually saddended that the planned arc which this game started was never completed - as the way the game ended was certainly on an interesting note.
+
+**3D Space Harrier (3DS):**
+So, it's just an arcade conversion, right? Nope. I think the biggest thing to take away from this port of the arcade classic is simply how important passion can be for a project to succeed. Without the [attention to detail](http://blogs.sega.com/2013/11/25/sega-3d-classics-space-harrier-3d-interview-with-developer-m2/) that M2 had on this, it otherwise would have just been another port.
+
+Instead, it's been the right feeling of the taking something from the past &amp; bring it forward in such a spectacular way. Certainly one of the things I've been most excited for on the 3DS - at least outside of Ninty's own titles of course :)
+
+**Monaco GP (Arcade):**
+Monaco GP is an incredibly hard game to be able to play. Not in terms of challenge, but rather in terms of hardware. Due to the fact that it uses discrete logic to run the game, instead of code running on a CPU - it means it can't be emulated by software like MAME. Thus, the only way to play it, is to find a working machine. (Granted, there is the Saturn version… but I don't have one of those handy ;p)
+
+Still, as an early arcade racer, there's something incredibly unique about it - especially with the controls, as the steering provides a degree of control I've not really seen in an arcade racer.
+
+I was lucky to have the opportunity to play it again as a result of being able to take my first *proper* holiday in years (over to the US for WWDC &amp; to catch up with friends afterwards), and it's one of the little reminders of that part of the year for me.
+
+**Asteroids (Arcade):**
+Again, I don't think there's much to say here - I mean, like Monaco GP, Asteroids is also a reminder of my trip this year, but also a reminder into how the arcade experience can improve a game. Whilst I've had Asteroids emulated on my iOS devices for *ages*, it's not quite the same as compared to a physical arcade cabinet - all because of the way the vector screen is rendered. The intense points of light for your weapons fire.
+
+**Pinball Arcade (iOS, PS Vita):**
+Truth be told, I more or less missed the hey-day of Pinball - but for some reason, something clicked and I actually quite got into Farsight's amazing collection, and have been enjoying it quite a bit. Makes me sad there's no real venue for pinball machines locally these days - I guess it means I need to somehow try to make a reason to visit the [Pinball Hall of Fame](http://en.wikipedia.org/wiki/Pinball_Hall_of_Fame) sometime and play some real tables someday…
+
+**ACE (C64):**
+This was one I'd not played since I was much younger, but as I found when recording the [play video](http://www.youtube.com/watch?v=zTJTP3njc3s) not too long ago - it's surprisingly great fun. In all honesty, I think that comes down to being purely focused on providing the combat experience. Not in simulating all the little nuances of flying a modern fighter jet - just enough to get it into the air, hunt down some enemies & blow them into pixellated dust.
+
+**Pocket Dogfights:**
+Of course **this** was always going to make an appearance somewhere in this list. On one hand, I'm incredibly proud of getting this out there, and for having gone through the process. But at the same time, there are the negative feelings associated with feeling like a failure on it - despite all my efforts, it only seemed to gain traction with a small group of folk, and at the same time it happened to teach me quite a few things, both positive &amp; negative.
+
+**Tempest 2000:**
+Seeing this here (and ultimately as the most important game of the year) shouldn't really some as a surprise to see this here. The experience of playing it properly for the first time at PAX, and the friends I'd made as a result of it serve as a great reminder of how gaming can be a unified experience.
+
+Plus, it's also acting as a warm-up for TxK for me - getting familiar with those tactics, those patterns, all for probably going back to stage one when my Vita becomes the TxK device (I'm guessing next year ;p).
