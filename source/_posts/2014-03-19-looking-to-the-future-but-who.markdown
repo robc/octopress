@@ -7,7 +7,7 @@ categories: [Indie Dev Life, Waffle, The Future]
 ---
 This post is part of a short series in which I'm publicly reflecting on where I want to try to be heading as an indie developer. If you happen to be interested in the series, you can read the introductory post at [this link]({{ root_url }}/blog/2014/03/18/looking-to-the-future/).
 
-So, *Who Am I?* If you could trust what the [Vorlons think](), it's meant to trigger the deep introspection which I'm trying to do for this series, so it honestly felt like the right place to start. In doing so, I at least have a firmer ground of the types of environments I thrive in. 
+So, *[Who Am I?](http://www.youtube.com/watch?v=SsUxnjMJm70)* It mightn't sound like much, but it's meant to trigger the deep introspection which I'm trying to do for this series, so it honestly felt like the right place to start. In doing so, I at least have a firmer ground of the types of environments I thrive in. 
 
 <!-- more -->
 
