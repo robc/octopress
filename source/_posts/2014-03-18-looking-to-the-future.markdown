@@ -18,3 +18,4 @@ Whilst this is just the introduction - I'm hoping that over the next few posts, 
 You can check out the rest of the posts in the series from the articles below:
 
 * **[Who Am I?]({{ root_url }}/blog/2014/03/19/looking-to-the-future-but-who/)** - In which I reflect on my present skills, some of the things I'd like to work on, and what kind of environments I'd prefer to work in.
+* **[What Do I Want?]({{ root_url }}/blog/2014/03/20/looking-to-the-future-but-what/)** - In which I reflect on the types of games I enjoy playing, and the types I want to work on, especially based around skill &amp; resource limitations.
