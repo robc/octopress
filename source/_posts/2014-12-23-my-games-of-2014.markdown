@@ -1,0 +1,64 @@
+---
+layout: post
+title: "My Games of 2014"
+date: 2014-12-23 20:47
+comments: true
+categories: [Waffle, Retrogaming, Gaming]
+---
+Comparing 2014 to [2013]({{ root_url }}/blog/2013/12/24/games-of-2013/) is certainly an interesting exercise by comparison. Compared to last year, there weren't as much AAA calibre games played - mainly as a result of two factors: the first being [the channel](http://www.youtube.com/user/hellfire64) and the workload in working on retro gameplay/LP videos, and secondly, my circumstances with regard to work meaning less time to sit in front of a console &amp; play games there.
+
+Much like last year, my tasted tended to split across multiple platforms - ranging from retro systems, to modern ones, as well as mobile devices. So, without further ado time to get onto this year's list (which is in no real order… so no real biases here!)
+
+<!-- more -->
+
+**[Quarries of Scred](http://www.quarriesofscred.com)** (Hammerspace, PC/Mac)
+
+A big thing I found with 2014 is that I tend to prefer games I can just sit back &amp; play in short bursts - one thing that I find AAA increasingly fails at.
+
+So, the Daily Quarry mechanic in brutal-dig-'em-up Quarries of Scred fits that particularly well. Each day, a special quarry is generated, and you have **one** attempt to go through it and score as high as possible.
+
+With that constraint, and with the absolute fragility of the Quarry - it's easy for a single mispressed keystroke to lead to your frantic death at the hands of the falling rocks, let alone the other inhabitants.
+
+All of that danger, and for what? Just to pay off some miserable debts? Nothing's worth that - well, actually, the tension of carefully moving though the Quarry, collecting the various gems, always careful about that one misstep, makes it a really darn engrossing game, and one I go back to, in order to try and make it out of the Quarry alive…&nbsp; with lots of loot!
+
+**[Threes](http://asherv.com/threes/)** (Sirvo, iOS/Android)
+
+I found in 2014 that I looked at mobile gaming a little less wistfully than I did in prior years. Perhaps it's from the reality setting in that it's not really a place for a developer in my position to be aiming for - and the push of Freemium models meaning that the types of games I wanted to play, just aren't really there anymore.
+
+But then I came across Threes. Whilst more people know the formula from the unashamed rip-off 2048, the sliding block to match them up with the aim of getting increasingly higher pairs for more points is incredibly compulsive, and is one of the games that I felt was *perfect* for playing in queues or waiting. In fact so perfect that it was the first time I removed a game from my phone for being just that too frustation inducing as a result.
+
+**[Monument Valley](http://www.monumentvalleygame.com)** (ustwo, iOS/Android)
+
+Monument Valley's another grand example of that type of gaming which is perfect for a mobile device. A nice sedate puzzle game which first lures you in with it's Escher-esque aesthetic, there's a well put together puzzler underneath.
+
+Moving through the levels with a combination of tapping the screen to move, and interacting with switches &amp; other gadgets on screen to reveal new parts of the level &amp; paths in order to reach the goal.
+
+Whilst it's more sedate than most of my other picks, it's still just as engrossing and rewarding, and more than worth it's asking price (along with the DLC… which I need to get around to finishing too!)
+
+**[Morpheus](http://gb64.com/game.php?id=5006&d=18&h=0)** (Graftgold/Rainbird, Commodore 64)
+
+I was always going to have to throw a C64 game or two in the list, and Morpheus is one of the more important ones of the year. Whether it's down to its *reputation* (where due to its complexity, that no one bothered to understand it and just panned it), or down to the fact that it's an attempt at evolving action gameplay beyond the confines of early arcade games, or maybe it's because I'm a bit of a fan of its [author's](http://www.mobygames.com/developer/sheet/view/developerId,10379/) prior works, but it's such an unappreciated gem that it's well worth checking out on an emulator or such.
+
+It's why I ended up doing a rather big [LP/introduction video](https://www.youtube.com/watch?v=fQgi3p_SW8M) for it ;)
+
+**[Elite](http://www.frontier.co.uk/games/elite/)** (Bell &amp; Braben/Firebird, Commodore 64)
+
+With all the hype for Elite: Dangerous as it impressed people with build after build, I found myself going back to the (almost) start to dive in and tool about with a trusty Cobra Mk III. The fact is, it helps put it into perspective of how important Elite is, and why I'm certainly excited for Dangerous. Well, at least whenever it's Mac port ships ;)
+
+**[Snare](http://gb64.com/game.php?id=6966&d=18&h=0)** (Thalamus, Commodore 64)
+
+Snare's a bit of an odd one. I remember adverts of it from back in the day, and I'd also tried out cracked versions under emulation (and later on hardware as I got my 1541 Ultimate II), but it wasn't until I got a proper copy (as part of a compilation) and sat down to play it (and eventually do a video on it) that I was pleasantly surprised.
+
+Whilst looking like a straight forward blasting fest at first, it reveals itself to be quite the devious action puzzler, as you navigate around the 20 levels of play, trying to get though each level 
+
+**[LUFTRAUSERS](http://www.luftrausers.com)** (Vlambeer, Win/Mac/Linux/PS3/PS Vita)
+
+Games involving planes going into battle are always something I've rather dug (it's why my first [complete game](http://www.pocketdogfights.com) was based on it!) Vlambeer's take, in the form of an upgraded version of their original game LUFTRAUSER (a little browser freebie), is one of those arcade-esque titles that really turns up the challenge to ludicrous degrees. An example of tight gameplay, which works great in short bursts - and that's something I found really important in 2014 to be honest.
+
+**[TxK](http://minotaurproject.co.uk/txk/index.php)** (Llamasoft, Playstation Vita)
+
+What else needs to be said? A new Llamasoft game is always going to rank highly on the list - and considering how highly I regard the pinnacle of those (Tempest 2000), it was always going to do the same here. But, hype notwithstanding, TxK takes the formula, and brings a good 20 years of gameplay evolution into focus. From the quick-session-focused Survival mode, to Classic mode allowing you to start at any completed level with your best score - it's geared to both short &amp; long sessions. On top of that, the **amazing** (and [award winning](http://www.develop-online.net/news/develop-awards-2014-and-the-winners-are/0195032)) [soundtrack](https://txk-ost.bandcamp.com/album/txk-the-original-soundtrack) has gotten plenty of airtime on my phone throughout the year as a result.
+
+Incredibly polished, darned gripping, pure pulsing arcade action.
+
+The way it should be if you ask me!
