@@ -8,7 +8,7 @@ categories: [Waffle, Retrogaming, Gaming]
 Comparing 2014 to [2013]({{ root_url }}/blog/2013/12/24/games-of-2013/) is certainly an interesting exercise by comparison. Compared to last year, there weren't as much AAA calibre games played - mainly as a result of two factors: the first being [the channel](http://www.youtube.com/user/hellfire64) and the workload in working on retro gameplay/LP videos, and secondly, my circumstances with regard to work meaning less time to sit in front of a console &amp; play games there.
 
 Much like last year, my tasted tended to split across multiple platforms - ranging from retro systems, to modern ones, as well as mobile devices. So, without further ado time to get onto this year's list (which is in no real order… so no real biases here!)
-
+ma
 <!-- more -->
 
 **[Quarries of Scred](http://www.quarriesofscred.com)** (Hammerspace, PC/Mac)
