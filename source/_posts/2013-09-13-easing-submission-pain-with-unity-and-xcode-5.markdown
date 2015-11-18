@@ -31,7 +31,7 @@ Open the project settings by selecting the **Unity-iPhone** project from the Nav
 
 If you're not familar enough with Xcode, this contains the various configuration items for the project - and has also changed somewhat compared to the project settings in prior versions.
 
-Scroll down to the **App Icons** section, and you'll find the various icons listed. In our case, the project Unity generates will only include those pre-iOS 7 sizes (as you specified in your Unity project). Plus, as is the case normally, the Spotlight &amp; Settings icons are not filled out as well. If you do require those, you 
+Scroll down to the **App Icons** section, and you'll find the various icons listed. In our case, the project Unity generates will only include those pre-iOS 7 sizes (as you specified in your Unity project). Plus, as is the case normally, the Spotlight &amp; Settings icons are not filled out as well. If you do require those, you'll need to include the right ones (see the Xcode documentation for what you need there).
 
 ![App Icon Settings]({{ root_url }}/images/xcode5hints/ProjectSettings_AppIcons_Thumb.png)
 
