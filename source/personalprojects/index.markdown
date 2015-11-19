@@ -16,6 +16,7 @@ I handled coding, gameplay design, sound effects design, and some art elements s
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gUW6qNxZVKo" frameborder="0" allowfullscreen></iframe>
 
+***
 
 #### [Meteor Swarm](http://meteorswarm.zeroybyt.es) (XNA, C#) ####
 
@@ -23,6 +24,7 @@ Meteor Swarm is a Windows retro-inspired action game combining simple gameplay, 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bEhyMdrmReU" frameborder="0" allowfullscreen></iframe>
 
+***
 
 #### [Eventbook](http://eventbook.zerobyt.es) (Cocoa Touch, Objective-C) ####
 
@@ -30,6 +32,7 @@ Eventbook was an iOS application designed as a means to easily access your Faceb
 
 ![Eventbook Composite Screenshots]({{ root_url }}/personalprojects/screens/eventbook.png)
 
+***
 
 ### Games from Assorted Game James ###
 
@@ -39,6 +42,7 @@ Onslaught in Space was a small shooter I created for Ludum Dare 26 (where the th
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VDNq63B0kL8" frameborder="0" allowfullscreen></iframe>
 
+***
 
 #### [Space Arena]({{ root_url }}/games/space-arena/index.html) (2013) ####
 
@@ -46,15 +50,16 @@ Space Arena is a small arena shooter concept I put together as part of the [Ludu
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6rXljGJUn4s" frameborder="0" allowfullscreen></iframe>
 
+***
 
 #### [Don't Crash Into The Black Hole](http://www.glorioustrainwrecks.com/node/2489) (2012) ####
 
 Don't Crash Into The Black Hole was a small game written for the [GDC 2012 Pirate Kart](http://www.glorioustrainwrecks.com/node/2097). Keep your space craft from crashing into the black hole as long as possible.
 
+***
 
 #### MicroMiner (2011) ####
 
 Micro Miner was a small attempt at a space shooter somewhat influenced by Asteroids and some other titles. Written for a small informal group event.
 
 It's available for **[Windows](https://dl.dropboxusercontent.com/u/4774176/Micro%20Miner%20%28Nonetheless%29/MicroMiner_Windows.zip)** and **[Macintosh](https://dl.dropboxusercontent.com/u/4774176/Micro%20Miner%20%28Nonetheless%29/MicroMiner_OSX.zip)**.
-
