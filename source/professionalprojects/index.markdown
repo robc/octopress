@@ -8,6 +8,17 @@ footer: true
 ---
 ### Professional Projects ###
 
+#### [Ice Caves of Europa](http://blog.cokane.com) (Unity, C#) (In Development)####
+
+Ice Caves of Europa is a Windows/Mac/Linux science-fiction cave exploration game, in which the player takes control of the Dragonfly rover exploring newly unveiled caves on the Moon of Europa for signs of life.
+
+* Implemented mission scripts for the majority of the game's missions.
+* Improved processing of dialog scripts to improve stability.
+* Implemented support for Game Controllers using the Rewired library, and configured initial controller profiles for Gamepads and the X52 Pro Flight Stick.
+* Worked on minor fixes and improvements to UI display.
+
+Ice Caves is still in development, but you can check out more details on its development progress over on [TIGSource](https://forums.tigsource.com/index.php?topic=47258.0).
+
 #### [Armello](http://www.armello.com) (Unity, C#) ####
 
 Armello is a Windows/Macintosh/Linux/PS4 digital board game, in which players take the roles of heros in the fantasy kingdom of Armello and battle to become the next King or Queen and save the realm from the upcoming darkness.
