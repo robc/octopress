@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Backfire"
+date: 2016-01-25 09:08
+comments: true
+categories: [Indie Dev Life, Backfire]
+---
+After name dropping it in a [recent interview](http://ausretrogamer.com/interview-with-rob-caporetto-the-azimuth-realigner), I guess it's time to let the cat out of the bag - the new game I'm working on is titled **Backfire**.
+
+<!-- more -->
+
+Platform wise, the current plan is to target **Windows** and **OS X**. Depending on circumstances, I'm open to other platforms - though that doesn't include mobile, as I don't believe I can make touch controls that are responsive enough (along with keeping out of your way) to make it fair to play.
+
+So, how'd I describe it? I like to think of Backfire as a game of arcade action, where the act of firing your blaster propels you around the playfield (with the power of physics). You must then use this to swiftly avoid enemy craft and blast them for points.
+
+Stylistically, I've been aiming for that early 80's lost arcade game feeling - which led me to going with a faux-Vector style design (which is also easier for someone like myself to draw), which combined with [Ant's](https://twitter.com/AntStiller) amazing background piece, certainly builds up the vibe.
+
+Going along with that, I've been programming the audio as snippets of Atari BASIC code - whilst the current build has them all being run via the [Atari800MacX](http://www.atarimac.com/atari800macx.php) emulator, I'm planning to have the final versions of sounds recorded from my Atari 800XL. There's one example below which shows some code and the resultant sound output!
+
+<iframe src="https://vine.co/v/iB36B66JrjZ/embed/postcard" width="300" height="300" frameborder="0"></iframe><script src="https://platform.vine.co/static/scripts/embed.js"></script>
+
+There's still a lot of work to be done - levels, enemy variations (and bosses, let alone the bosses) - but I'm hoping it's something which will come together over the next few months.
+
+In terms of updates? I'll primarily be posting videos to YouTube, and hopefully the occasional post here - I do have to get a dedicated website up, but for now, that's something to be worked on alongside the game.
+
+As for where it's at right now? You can check out the latest development video below - this shows a bunch of play from the first few levels, where things are decidedly slow to introduce players to the movement and the initial enemy archetypes.
+
+If you want to keep track about progress? Best thing to do is either [subscribe to the channel](https://www.youtube.com/user/hellfire64) (which is where I'll post these dev videos), or perhaps you'd like to [follow me](http://www.twitter.com/rob_caporetto) on Twitter. That way, you can keep up to date with the bigger and smaller pieces in development too!
+
+Finally - here's the latest development video, I'm hoping you enjoy this one and can see where the game is, and where it's going to be headed over in the near future!
+
+{% youtube NcVXPFZm3EY %}
