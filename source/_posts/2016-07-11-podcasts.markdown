@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Podcasts, Expos and Other Things"
+date: 2016-07-11 17:26
+comments: true
+categories: 
+---
+Okay, so I kind of dropped the ball here. If by dropped, you basically mean completely forget it about for 6 months. Whoops!
+
+<!-- more -->
+
+So some things that I need to recap which might be of interest to you folks. The first was that in January, I was a guest on the [Press Play on Tape](http://pressplayontape.podbean.com/e/press-play-on-tape-podcast-ep-11-acorn/) podcast - this time around, it was all focused on Acorn's wonderful machines (which is funny - because I have appeared to on a *massive* BBC Micro kick again). I quite enjoyed catching up and talking micros again with Alex &amp; Daz as always.
+
+Along with that, we've been quite busy on the [Reset](http://reset.cbm8bit.com) front. (Issue 8)[http://reset.cbm8bit.com/?dir=issue8], focusing on C64 Adventure games came out a few months back, and more recently we released [Issue 9](http://reset.cbm8bit.com/?dir=issue9), dedicated to the games of [**Hewson Consultants**](http://www.hewsonconsultants.com)! Which is quite an coincidence, as they're coming back into games publishing with a rather sweet shmup titled [**Hyper Sentinel**](http://www.hypersentinel.com). They're currently running a [Kickstarter](https://www.kickstarter.com/projects/robhwson/hyper-sentinel) to get some cash together to help complete the base iOS build, and start porting it to other platforms.
+
+I was lucky enough to get a sneak peek of the demo, and put a small video together showing it off. If you like your retro-esque shooters, then you should consider backing it if you've not already. It's still got a few weeks left (at least at the time of writing) - and there's some nifty things you can get for your pledge!
+
+{% youtube Jr5Incs_WeU %}
+
+Speaking of the channel - I finally cracked 500 subs. Twice even (no thanks to a nicely timed purge on YouTube's part). I'm kind of chuffed with some of the recent videos - from my look at Shadow of the Beast (which was probably one of the most popular things I've covered in ages), along with lots of C64 homebrew, and a review of Ultima I (which was good enough for Lord British to RT himself - thanks Ant!). There's a few minor shake ups coming up soon, but if you appreciate respectully covered 8-bit computer games, you'll appreciate what I have in store.
+
+I'm also trying to get back into streaming the occasional 8-bit game again - some upgrades are helping this to happen, and well - I'm hoping to get a bit of action over on [Twitch](http://twitch.tv/hellfire64) over there, simply because of the audience. Truth be told, I'm hoping to talk about all this lines up soon enough.
+
+Finally, there's [Backfire](http://www.backfiregame.com). Things have been brewly along nicely there - even if at an inconsistent pace, thanks to the having a proper job again thing. Still, most importantly is that it'll be part of the [Indie Games Room](http://www.theindiegamesroom.com) over at [AVCON](http://avcon.org.au)…&nbsp; **THIS WEEKEND**. So don't mind me - I'm working on finalising builds, and making sure I can lug over everything I need to for demoing.
+
+That's quite a significant milestone to be honest. With [Pocket Dogfights](http://www.pocketdogfights.com), I was never in the position to even attempt it - but compared to that, or even Pivotus, there's a lot more customary elements which people do appreciate when it comes to what I'm aiming to achieve with Backfire.
+
+So, if you happen to be heading over to AVCON, do swing by. Hoping to get some good feedback on things, along with some mailing list sign-ups. In fact, even if you're not going, it would be **greatly** appreciated, if you'd be willing to sign up as we get closer to release.
+
+I think that is pretty much it. For those who've been there and supporting - whether by sharing stuff I post, watching and discussing the games I've posted, or those who've thrown a bit of cash over on [Patreon](http://patreon.com/robc) - you all don't know how much that has meant over the end of last year, and the first part of this year.
+
+Most importantly. Helping to spread the word helps. Greatly. Especially for those of us who are niche creators…&nbsp;with our games, videos, blog posts and whatever else we put together.
+
+&lt;3
